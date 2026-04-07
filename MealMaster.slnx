@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="mealmaster.client/mealmaster.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="MealMaster.Server/MealMaster.Server.csproj" />
+</Solution>
